@@ -219,55 +219,55 @@ $(document).ready(function () {
 
 
         $("#penguin1").css({
-            "background-image": "url(/images/mound_1.png)",
+            "background-image": "url(./images/mound_1.png)",
             "pointer-events": "auto"
         });    //https://api.jquery.com/css/
 
 
         $("#penguin2").css({
-            "background-image": "url(/images/mound_2.png)",
+            "background-image": "url(./images/mound_2.png)",
             "pointer-events": "auto"
         });
 
 
         $("#penguin3").css({
-            "background-image": "url(/images/mound_3.png)",
+            "background-image": "url(./images/mound_3.png)",
             "pointer-events": "auto"
         });
 
 
         $("#penguin4").css({
-            "background-image": "url(/images/mound_4.png)",
+            "background-image": "url(./images/mound_4.png)",
             "pointer-events": "auto"
         });
 
 
         $("#penguin5").css({
-            "background-image": "url(/images/mound_5.png)",
+            "background-image": "url(./images/mound_5.png)",
             "pointer-events": "auto"
         });
 
 
         $("#penguin6").css({
-            "background-image": "url(/images/mound_6.png)",
+            "background-image": "url(./images/mound_6.png)",
             "pointer-events": "auto"
         });
 
 
         $("#penguin7").css({
-            "background-image": "url(/images/mound_7.png)",
+            "background-image": "url(./images/mound_7.png)",
             "pointer-events": "auto"
         });
 
 
         $("#penguin8").css({
-            "background-image": "url(/images/mound_8.png)",
+            "background-image": "url(./images/mound_8.png)",
             "pointer-events": "auto"
         });
 
 
         $("#yeti").css({
-            "background-image": "url(/images/mound_9.png)",
+            "background-image": "url(./images/mound_9.png)",
             "pointer-events": "auto"
         });
     }
